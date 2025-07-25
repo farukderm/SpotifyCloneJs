@@ -12,5 +12,6 @@ Projemizde api kullanarak spotify klonunu yaptık
 
 Ekran Görüntüsü
 
-https://github.com/user-attachments/assets/e5992d15-8ca0-468d-b7fc-d45234910f01
+
+![spotify](https://github.com/user-attachments/assets/79ce419b-5be5-4a7c-a8a9-715f06cf0dad)
 
